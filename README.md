@@ -1,6 +1,6 @@
-### Hi there 👋
+### Me chamo Tatiane, Sou estudante pela Digital College como desenvolvedora Front End, e estou cursando Análise e Desenvolvimento de Sistemas. 👋
 
-<!--
+<!-
 **Melgaco21/Melgaco21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
